@@ -1,0 +1,8 @@
+ ----------------------------------------
+| "HetGroteKutSpel"  door Jeroen Weber | 
+ ----------------------------------------
+Aantal spelregels:
+X Gebruik alsjeblieft zoveel mogelijk kleine letters, om het progamma zo goed mogelijk te laten werken ( dat word wel omgezet, , maar voor de zekerheid ) 
+X Je moet ouder zijn dan 15 jaar! Let op: dit word gecontroleerd!
+X Je moet geen achterlijk kut kind zijn, dan kut antwoorden gaat ingeven , die niks met de vragen te maken hebben. ( try me ;p )
+X De code staat open, dus verbeteringen zijn altijd welkom

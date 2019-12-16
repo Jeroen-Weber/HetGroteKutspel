@@ -1,0 +1,6 @@
+pornsites = open('pornsites.txt', 'r+')
+print(pornsites.read())
+print("Weet je misschien nog een leuke site? jij viezerik! Kan je hieronder invullen..")
+site = input("Naam van de website: ")
+pornsites.write(site + "\n")
+pornsites.close()
