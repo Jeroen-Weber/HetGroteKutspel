@@ -2,7 +2,7 @@
 # HET GROTE KUT SPEL #
 # Copy Jeroen Weber  #
 ######################
-# Project op Github te vinden op: https://github.com/Jeroen-Weber/HetGroteKutspel
+# Project op Github te vinden op: https://github.com/Jeroen-Weber/HetGroteTMspel
 # -*- coding: utf-8 -*-
 
 # een aantal imports om bepaalde functie's en variabele  te laten werken
